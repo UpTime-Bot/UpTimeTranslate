@@ -1,0 +1,212 @@
+{
+  "$package": {
+    "flag": "Zunge : :flag_de:",
+    "name": "Deutsch"
+  },
+      "bal": {
+          "bulunuyor": "Sie haben Uptime Coin!",
+          "whatisthis": "Was macht Uptime Coin?",
+          "cevap": "Uptime Coin hilft, Ihr Link-Hinzufügen-Limit zu erhöhen. Wenn Sie weitere Fragen oder Probleme haben, wenden Sie sich an [Support-Server](https://discord.gg/vN48UcpDJs).",
+          "Erisim": "Zugang",
+          "bakiye": "Geld"
+    },
+      "erisim": {
+        "acik": "Sie haben Zugriff auf den UpTime-Bot.",
+        "kapali": "Der Zugriff auf den UpTime-Bot ist deaktiviert"  
+      },
+      "istatistik": {
+        "botverileri": " **Bot-Daten :**",
+        "uptimeverileri": " **Betriebszeitdaten :** ",
+        "yazilimsurumleri": " **Softwareversionen :**",
+        "gecikmesureleri": " **Verzögerungszeiten :**",
+        "bellek": "** Erinnerung :**",
+        "kanal": "Anzahl der Kanäle",  
+        "sunucu": "Anzahl der Server", 
+        "kullanıcı": "Anzahl der Nutzer" ,
+        "Aktiflilk": "Aktivitätsdauer",
+        "Linksayı": "Anzahl der Links" ,
+        "djssürüm": "Discord.js-Version",
+        "nodejssürüm": "NodeJS-Version",
+        "msjgecikmesi": "Nachrichtenverzögerung"  
+      },
+    "yardım": {
+        "baslik": "UpTime-Hilfemenü",
+        "menü": "**Uptime-Befehle **➤\n<:online:911258459301875773> **up!add Sie fügen einen Link hinzu.**\n<:online:911258459301875773> **up!delete Sie löschen den hinzugefügten Link.**\ n<:online: 911258459301875773> **up!access-control Sie steuern Ihren Zugriff.**\n<:online:911258459301875773> **up!number Sie können die Anzahl der Projekte sehen, die der Bot aktiv hat.**\n <:online:911258459301875773> **up!links Sie sehen sich Ihre Links an.**\n\n**Benutzerbefehle **➤\n<:online:911258459301875773> **up!statistiken Sie können die Statistiken der bot.**\n<:online:911258459301875773> **up!help Hilfemenü **\n<:online:911258459301875773> **up!status Legt den Status des von Ihnen angegebenen Servers fest (z. B. Kanada1).**\ n<:online:911258459301875773> **up!depo Gibt das Repository an (Anzahl der Links).** \n<:online:911258459301875773> **up!profile Zeigt Informationen des Benutzers an.**\n<:online: 911258459301875773> **up!ping Zeigt den Ping aller Server und Bots an.**\n<:online:911258459301875773> * *up!invite Zeigt die Links des Bots an.**\n\n**Economy Befehle** ➤\n<:online:911258459301875773> **up!Sie erhalten Ihre tägliche Belohnung.**\n<:online:911258459301875773> **up!balance Überprüfen Sie Ihr Uptime Coin-Guthaben.**\n<:online:911258459301875773 > **up!market Link-Limit-Codes und benötigte Münze.**\n<:online:911258459301875773> **up!buy-in Sie erhalten den von Ihnen angegebenen Artikelcode. (Link-Limit)**\n<:online:911258459301875773> **up!coinwin Du verdienst Münzen, indem du den Link weitergibst.**\n<:online:911258459301875773> **Du spielst up!slots Slots.**\n \nPremium-Hilfe: up!phelp"
+    },
+        "coinkazan": {
+
+        "linkoluşturuldu": "Ein spezieller Link wurde für Sie erstellt.",
+        "uyari": "Sie können 1 - 10 Münzen verdienen, indem Sie diesen Link weitergeben! Der Link ist für Sie privat.\nDie Werbung auf der Website steht in keinem Zusammenhang mit uns und wir sind nicht verantwortlich, wenn etwas mit Ihrem Computer passiert!\nIndem Sie diesen Link weiterleiten, leisten Sie einen Beitrag zu uns.",
+        "günlüksaat": "Nicht abgelaufen!",
+        "günlüksaatzaman": "Die Zeit muss ablaufen, um wieder Münzen zu erhalten.\nUm deine nächste Münze zu erhalten",        
+        "günlüksaatzaman2": "du solltest warten!"
+        },
+            "depo": {
+        "senin": "Ihr Lager",
+        "Kullandı": "Anzahl der Projekte, die Sie verwendet haben",
+        "uyari": "up!linklerim Sie können Ihre Links mit dem Befehl überprüfen."      
+            },
+            "ekle": {
+         "error1t": "Link konnte nicht hinzugefügt werden",
+         "error1": "  **Etwas ist schief gelaufen! Wenden Sie sich an unser Support-Team!\n**Fehlercode: 402\n\nWas könnten die Gründe sein?\n» Link nicht angegeben\n» Link unsicher :unlock:\n» Link kann nicht aufgerufen werden\n» Link falsch eingegeben" ,
+         "error2": "Ihr Lager ist voll (7/7) Ich kann Ihren Link nicht hinzufügen!**",
+         "error3": "Der Eigentümer dieses Links wird auf die schwarze Liste gesetzt und dauerhaft daran gehindert, diesen Link erneut zu posten",
+         "error4": "Ich glaube, Sie stehen auf der schwarzen Liste. Deshalb kann ich deinen Link nicht uptimen. ich bin traurig",
+         "error51": "Ich denke, der Server, zu dem der Link hinzugefügt werden soll",
+         "error5": "abgeschlossen",  
+         "error61": "Ich denke, der Server, zu dem der Link hinzugefügt werden soll",
+         "error6": "In Pflege",
+         "error71": "Ich denke, der Server, auf dem Ihr Link hinzugefügt wird",
+         "error7": "Voll! Daher konnte der Link nicht hinzugefügt werden",
+         "varzaten": "Der von Ihnen angegebene Link ist bereits in meinem System.",
+         "bekle1": "Bitte warten Sie 1-3 Minuten. Verknüpfung",
+         "bekle2": "zum Server hinzufügen",
+         "basarili": " Die von Ihnen geschriebene URL wurde meinem System erfolgreich hinzugefügt",
+         "basarili2": "dieser Link",  
+         "basarili3": "werden auf dem Server gespeichert."      
+            },
+            "vote": {
+         "votetitle": "Sie müssen abstimmen!",
+         "Voteaçıklama": "Sie müssen abstimmen, um einen Link hinzuzufügen. Sie können [hier] abstimmen (https://top.gg/bot/947508799386820608/vote). ",
+         "sorunvarmi": "hast Du ein Problem?",
+         "buton": "Kontaktieren Sie uns hier!"       
+            },
+        "karaliste": {
+            "error": "Fehler!",
+            "hata": "Ich denke, Ihr Zugang ist deaktiviert"
+        },
+        "linklerim": {
+            "error": "Fehler!",
+            "hata": "Sie haben keine Links!",
+            "sended": "Die Links, für die Sie verfügbar sind, wurden aus Sicherheitsgründen an Ihre Direktnachrichten gesendet. Überprüfen Sie Ihre Direktnachrichten.",
+            "uyarı": "HINWEIS: NACHRICHTEN KÖNNEN NICHT GESENDET WERDEN, WENN DIE DIREKTNACHRICHTEN AUSGESCHALTET SIND",
+            "hataolustu": "Etwas ist schief gelaufen. Stellen Sie sicher, dass Ihre Direktnachrichten aktiviert sind"
+        },
+    	"durum": {
+            "yaz": "Bir sunucunun durumuna bakmak için onun adını yaz",
+            "acık": "Şuanda bulunan sunucular :\n Canada1\nCanada2\nFrance1\nTurkey1\n\nÖrnek kullanım: up!durum Canada1",
+            "support": "Destek sunucusu",
+            "sunucuadi": "Sunucu Adı",
+            "sunucudurum": "Sunucu Durumu",
+            "sayi": "Sunucuda Bulunan Link Sayısı",
+            "error": "Girdiğiniz sunucu bulunamadı"
+            
+        },
+      "coinflip": {
+        "sürendolmamış": "Süren dolmamış!",
+        "sürendolmamışaçıklama1": "Tekraran yazı tura oynayabilmek için sürenin dolması gerekiyor.\nBir sonra ki yazı tura oyununu oynamak için",
+        "beklemelisin": "beklemelisin",
+        "error1": "Lütfen bir sayı belirtin. Kaybederseniz uptime coini geri alamazsınız.",
+        "error2": ":x: Coin Flip oynayabilmek için minimum 5 coininiz olmalıdır!",
+        "error3": ":x: Coin Flip oynayabilmek için minimum 5 coin yatırmalısınız!",
+        "error4": ":x: Belirttiginiz sayı uptime coin sayınızı geçmiyor!",
+        "çıktı1": "Vee... yazı çıktı." ,
+        "tebrikler": "Tebrikler, kazandınız!",
+        "coineklendi": " hesabına",
+        "coineklendi2": "coin eklendi.",
+        "çıktı2": "Vee... tura çıktı.",
+        "üzgünüm": "Üzgünüm kaybettin"
+      },
+      "günlük": {
+        "sürendolmamış": "Süren dolmamış!",
+        "sürendolmamışaçıklama": "Tekraran günlük ödül alabilmek için sürenin dolması gerekiyor.\nBir sonra ki günlük ödülünü alabilmek için ",  
+        "beklemelisin": "beklemelisin.",
+        "günlükbaşlık": " Günlük Ödülün!",
+        "günlükaçıklama": "Günlük ödül olarak  Uptime Coin kazandın!",
+        "bakiyenebak": "up!bakiye komutu ile bakiyene bakabilirsin."  
+      },
+      "market": {
+		"Başlık": "Market",
+        "Eklendi": "Eklendi",  
+        "limit": "Link limiti",  
+        "kod": "İtem kodu:",
+        "uc": "Uptime coin",
+        "itemkodu": "itemkodu"  
+      },
+      "premium": {
+          "yok": "Kullanıcısı premium kullanmıyor.",
+          "süreyok": "Premium yok",
+          "var": "Kullanıcısı Premium **Tier 1** aboneliği kullanıyor!",
+          "sınırsız": "Sınırsız"
+      },
+      "premiumekle": {
+          "yok": "Link eklenemedi!",
+          "premiumyok": "Bu komut premiumlara özel ve senin premiumun yok gibi gözüküyor."
+      },
+      "sil": {
+         "basarisiz": " Link Silme işlemi başarısız.",
+         "neden": "Link silinemedi bunun nedenleri şunlar olabilir:\n\n» Bu link sistemde yok.\n» Bu link sistemde var ama başka bir kullanıcı tarafından.\n» Linkin sonuna / eklemeyi veya çıkarmayı deneyin.\n» Link belirtilmedi\n\nBu hatanın doğru olmadıgını düşünüyorsan lütfen destek ekibimizle iletişime geç! Destek sunucusu yardım menüsünde bulunuyor.",
+        "basarili": " Link Silme işlemi başarılı.",
+        "silindi1": " Link başarılı bir şekilde silindi. Artık",
+        "silindi2": "linkin bulunuyor."  
+
+      },
+      "pyardım": {
+          "yardım": "**Premium Komutları **➤\n\n<:online:911258459301875773> **up!premium-ekle Premium Link eklersiniz.**\n<:online:911258459301875773> **up!premium-sil Premium Link silersiniz.**\n<:online:911258459301875773> **up!premium Premium durumunuza bakarsınız. **",
+          "duyuru": "Duyuru"
+      },
+      "bulunuyor": {
+          "Şuanda1": "Şuanda",
+          "ediliyor1": "proje uptime ediliyor",
+          "şuanda2": "Şuanda",
+          "ediliyor2": "premium proje uptime ediliyor"
+          
+      },
+      "profil": {
+          "dnd": "Rahatsız etmeyin",
+          "idle": "Boşta",
+          "offline": "Çevrimdışı",
+          "online": "Aktif",
+          "pazartesi": "Pazartesi",
+          "salı": "Salı",
+          "Çarşamba": "Çarşamba",
+          "Perşembe": "Perşembe",
+          "Cuma": "Cuma",
+          "Cumartesi": "Cumartesi",
+          "Pazar": "Pazar",
+          "Ocak": "Ocak",
+          "Şubat": "Şubat",
+          "Mart": "Mart",
+          "Nisan": "Nisan",
+          "Mayıs": "Mayıs",
+          "Haziran": "Haziran",
+          "Temmuz": "Temmuz",
+          "Ağustos": "Ağustos",
+          "Eylül": "Eylül",
+          "Ekim": "Ekim",
+          "Kasım": "Kasım",
+          "Aralık": "Aralık",
+          "id": "Kullanıcı ID'si",
+          "Durum": "Durum",
+          "pf": "Profil Fotoğrafı",
+          "linksayısı": "Kullanıcının uptime ettigi link sayısı",
+          "sayısı": "Uptime Coin Sayısı"
+      },
+      "satınal": {
+          "kod": "Bir item kodu belirtmelisiniz",
+          "kodiçin": "up!market komutu ile item kodlarına bakabilirsiniz.",
+          "yetersiz": "Yeterli uptime coinin yok!",
+          "basarili": "Başarılı! Hesabınıza",
+          "basarili2": "Link limiti işlendi.",
+          "premium": "Başarılı! Hesabınıza Premium işlendi.",
+          "error": "HATA!",
+          "erroraçıklama": "Sanırım böyle bir item kodu yok. Lütfen up!market üzerinde bulunan bir item kodunu girin"
+      },
+      "sayı": {
+          "toplam": "Toplam Uptime edilen proje sayısı",
+          "senin": "Senin Uptime ettiğin proje sayısı"
+      },
+      "slots": {
+        "sürendolmamış": "Süren dolmamış!",
+        "sürendolmamışaçıklama1": "Tekraran slot çevirebilmek için sürenin dolması gerekiyor.\nBir sonra ki slot çevirebilmek için",
+        "beklemelisin": "beklemelisin",
+        "error1": "Lütfen bir sayı belirtin. Kaybederseniz uptime coini geri alamazsınız.",
+        "error2": ":x: Slot çevirebilmek için minimum 5 coininiz olmalıdır!",
+        "error3": ":x: Slot çevirebilmek oynayabilmek için minimum 5 coin yatırmalısınız!",
+        "error4": ":x: Belirttiginiz sayı uptime coin sayınızı geçmiyor!",
+        "tebrikler": "Tebrikler, kazandınız!",
+        "coineklendi": " hesabına",
+        "coineklendi2": "coin eklendi.",
+        "üzgünüm": "Üzgünüm kaybettin"
+      }
+}
