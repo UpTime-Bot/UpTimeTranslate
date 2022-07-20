@@ -1,0 +1,212 @@
+{
+  "$package": {
+    "flag": "Dil : :flag_tr:",
+    "name": "Türkçe"
+  },
+      "bal": {
+          "bulunuyor": "Uptime Coin'in bulunuyor!",
+          "whatisthis": "Uptime Coin ne işe yarar?",
+          "cevap": "Uptime Coin link ekleme limitinizi arttırmaya yarar. Başka soru veya sorunların varsa [destek sunucusuna](https://discord.gg/xA6sbMsAkC) gel.",
+          "Erisim": "Erisim",
+          "bakiye": "Bakiye"
+    },
+      "erisim": {
+        "acik": "UpTime botuna erişimin açık.",
+        "kapali": "UpTime botuna erişimin kapalı"  
+      },
+      "istatistik": {
+        "botverileri": " **Bot verileri :**",
+        "uptimeverileri": " **Uptime verileri :** ",
+        "yazilimsurumleri": " **Yazılım Sürümleri :**",
+        "gecikmesureleri": " **Gecikme Süreleri :**",
+        "bellek": "** Bellek :**",
+        "kanal": "Kanal Sayısı",  
+        "sunucu": "Sunucu Sayısı", 
+        "kullanıcı": "Kullanıcı Sayısı" ,
+        "Aktiflilk": "Aktiflik süresi",
+        "Linksayı": "Link sayısı" ,
+        "djssürüm": "Discord.js sürüm",
+        "nodejssürüm": "NodeJS sürüm",
+        "msjgecikmesi": "Mesaj Gecikmesi"  
+      },
+    "yardım": {
+        "baslik": "UpTime Yardım Menüsü",
+        "menü": "**Uptime Komutları **➤\n<:online:911258459301875773> **up!ekle Link eklersiniz.**\n<:online:911258459301875773> **up!sil Eklediginiz Link silersiniz.**\n<:online:911258459301875773> **up!erişim-kontrol Erişiminizi kontrol edersiniz.**\n<:online:911258459301875773> **up!sayı Botun uptime ettiği proje sayısını görebilirsiniz.**\n<:online:911258459301875773> **up!linklerim Linklerinize bakarsınız.**\n\n**Kullanıcı Komutları **➤\n<:online:911258459301875773> **up!istatistik Botun istatistiğini görebilirsiniz.**\n<:online:911258459301875773> **up!yardım Yardım menüsünü gösterir.**\n<:online:911258459301875773> **up!durum Belirttiğiniz sunucunun (örneğin Canada1) durumunu atar.**\n<:online:911258459301875773> **up!depo Depoyu gösterir (Link Sayısı).**\n<:online:911258459301875773> **up!profil Kullanıcının bilgisini gösterir.**\n<:online:911258459301875773> **up!ping Tüm sunucuların ve botun pingini gösterir.**\n<:online:911258459301875773> **up!davet Botun linklerini gösterir.**\n\n**Ekonomi Komutları** ➤\n<:online:911258459301875773> **up!günlük Günlük ödülünüzü alırsınız.**\n<:online:911258459301875773> **up!bakiye Uptime Coin bakiyenize bakarsınız.**\n<:online:911258459301875773> **up!market Link Limiti kodlarını ve gereken coini gösterir.**\n<:online:911258459301875773> **up!satın-al Belirttiğiniz item kodunu alırsınız. (Link limiti)**\n<:online:911258459301875773> **up!coinkazan Linki geçerek coin kazanırsınız.**\n<:online:911258459301875773> **up!slots Slots oyununu oynarısınız.**\n\nPremium yardım : up!pyardım"
+    },
+        "coinkazan": {
+
+        "linkoluşturuldu": "Size özel bir link oluşturuldu.",
+        "uyari": "Bu linki geçerek 1 - 10 coin kazanabilirsiniz! Link size özeldir.\nSitedeki reklamlar bizimle alakalı değildir ve bilgisayarınıza bir şey olursa sorumlusu biz değiliz!\nBu linki geçerek bize katkıda bulunmuşta olursunuz.",
+        "günlüksaat": "Süren dolmamış!",
+        "günlüksaatzaman": "Tekrardan coin alabilmek için sürenin dolması gerekiyor.\nBir sonra ki coinini alabilmek için",        
+        "günlüksaatzaman2": "beklemelisin!"
+        },
+            "depo": {
+        "senin": "Senin depon",
+        "Kullandı": "Kullandıgın proje sayısı",
+        "uyari": "up!linklerim komutunu kullanarak linklerinize bakabilirsiniz."      
+            },
+            "ekle": {
+         "error1t": "Link Eklenemedi",
+         "error1": "  **Bir hata oluştu! Destek ekibimizle iletişime geç!\n**Hata Kodu : 402\n\nNedenleri ne olabilir?\n» Link belirtilmedi\n» Link güvensiz :unlock:\n» Linke erişilemiyor\n» Link hatalı girildi",
+         "error2": "Deponuz dolmuş (7/7) linkinizi ekleyemem!**",
+         "error3": "Bu linkin sahibi karalisteye alınmış ve kalıcı olarak bu linkin tekrardan eklenmesi engellendi",
+         "error4": "Sanırım karalisteye alınmışsın. Bu yüzden linkini uptime edemem. Üzgünüm",
+         "error51": "Sanırım linkin ekleneceği sunucu",
+         "error5": "kapalı",  
+         "error61": "Sanırım linkin ekleneceği sunucu",
+         "error6": "bakımda",
+         "error71": "Sanırım Linkinizin ekleneceği sunucu",
+         "error7": "Dolu! Bu yüzden link eklenemedi",
+         "varzaten": "Belirttiğiniz link zaten sistemimde bulunuyor",
+         "bekle1": "Lütfen 1-3 dakika bekleyin. Link",
+         "bekle2": "sunucusuna ekleniyor",
+         "basarili": " Yazdığınız URL başarıyla sistemime eklendi",
+         "basarili2": "Bu link",  
+         "basarili3": "sunucusunda deponalacaktır."      
+            },
+            "vote": {
+         "votetitle": "Oy vermelisiniz!",
+         "Voteaçıklama": "Link ekleyebilmek için oy vermeniz gerekiyor. [Buradan](https://top.gg/bot/947508799386820608/vote) oy verebilirsiniz. ",
+         "sorunvarmi": "Bir sorununuz mu var?",
+         "buton": "Buradan bize ulaşın!"       
+            },
+        "karaliste": {
+            "error": "Hata!",
+            "hata": "Sanırım Erişiminiz kapalı"
+        },
+        "linklerim": {
+            "error": "Hata!",
+            "hata": "Herhangi bir linkin bulunmuyor!",
+            "sended": "Uptime Etmekte Olduğun Linkler Güvenlik Nedeniyle Direkt Mesajlarına Gönderildi . Direkt mesajlarını kontrol et.",
+            "uyarı": "NOT : DİREK MESAJLAR KAPALI İSE MESAJ ATILAMAZ",
+            "hataolustu": "Bir hata oluştu. Direkt Mesajlarının açık oldugundan emin ol"
+        },
+    	"durum": {
+            "yaz": "Bir sunucunun durumuna bakmak için onun adını yaz",
+            "acık": "Şuanda bulunan sunucular :\n Canada1\nCanada2\nFrance1\nTurkey1\n\nÖrnek kullanım: up!durum Canada1",
+            "support": "Destek sunucusu",
+            "sunucuadi": "Sunucu Adı",
+            "sunucudurum": "Sunucu Durumu",
+            "sayi": "Sunucuda Bulunan Link Sayısı",
+            "error": "Girdiğiniz sunucu bulunamadı"
+            
+        },
+      "coinflip": {
+        "sürendolmamış": "Süren dolmamış!",
+        "sürendolmamışaçıklama1": "Tekraran yazı tura oynayabilmek için sürenin dolması gerekiyor.\nBir sonra ki yazı tura oyununu oynamak için",
+        "beklemelisin": "beklemelisin",
+        "error1": "Lütfen bir sayı belirtin. Kaybederseniz uptime coini geri alamazsınız.",
+        "error2": ":x: Coin Flip oynayabilmek için minimum 5 coininiz olmalıdır!",
+        "error3": ":x: Coin Flip oynayabilmek için minimum 5 coin yatırmalısınız!",
+        "error4": ":x: Belirttiginiz sayı uptime coin sayınızı geçmiyor!",
+        "çıktı1": "Vee... yazı çıktı." ,
+        "tebrikler": "Tebrikler, kazandınız!",
+        "coineklendi": " hesabına",
+        "coineklendi2": "coin eklendi.",
+        "çıktı2": "Vee... tura çıktı.",
+        "üzgünüm": "Üzgünüm kaybettin"
+      },
+      "günlük": {
+        "sürendolmamış": "Süren dolmamış!",
+        "sürendolmamışaçıklama": "Tekraran günlük ödül alabilmek için sürenin dolması gerekiyor.\nBir sonra ki günlük ödülünü alabilmek için ",  
+        "beklemelisin": "beklemelisin.",
+        "günlükbaşlık": " Günlük Ödülün!",
+        "günlükaçıklama": "Günlük ödül olarak  Uptime Coin kazandın!",
+        "bakiyenebak": "up!bakiye komutu ile bakiyene bakabilirsin."  
+      },
+      "market": {
+		"Başlık": "Market",
+        "Eklendi": "Eklendi",  
+        "limit": "Link limiti",  
+        "kod": "İtem kodu:",
+        "uc": "Uptime coin",
+        "itemkodu": "itemkodu"  
+      },
+      "premium": {
+          "yok": "Kullanıcısı premium kullanmıyor.",
+          "süreyok": "Premium yok",
+          "var": "Kullanıcısı Premium **Tier 1** aboneliği kullanıyor!",
+          "sınırsız": "Sınırsız"
+      },
+      "premiumekle": {
+          "yok": "Link eklenemedi!",
+          "premiumyok": "Bu komut premiumlara özel ve senin premiumun yok gibi gözüküyor."
+      },
+      "sil": {
+         "basarisiz": " Link Silme işlemi başarısız.",
+         "neden": "Link silinemedi bunun nedenleri şunlar olabilir:\n\n» Bu link sistemde yok.\n» Bu link sistemde var ama başka bir kullanıcı tarafından.\n» Linkin sonuna / eklemeyi veya çıkarmayı deneyin.\n» Link belirtilmedi\n\nBu hatanın doğru olmadıgını düşünüyorsan lütfen destek ekibimizle iletişime geç! Destek sunucusu yardım menüsünde bulunuyor.",
+        "basarili": " Link Silme işlemi başarılı.",
+        "silindi1": " Link başarılı bir şekilde silindi. Artık",
+        "silindi2": "linkin bulunuyor."  
+
+      },
+      "pyardım": {
+          "yardım": "**Premium Komutları **➤\n\n<:online:911258459301875773> **up!premium-ekle Premium Link eklersiniz.**\n<:online:911258459301875773> **up!premium-sil Premium Link silersiniz.**\n<:online:911258459301875773> **up!premium Premium durumunuza bakarsınız. **",
+          "duyuru": "Duyuru"
+      },
+      "bulunuyor": {
+          "Şuanda1": "Şuanda",
+          "ediliyor1": "proje uptime ediliyor",
+          "şuanda2": "Şuanda",
+          "ediliyor2": "premium proje uptime ediliyor"
+          
+      },
+      "profil": {
+          "dnd": "Rahatsız etmeyin",
+          "idle": "Boşta",
+          "offline": "Çevrimdışı",
+          "online": "Aktif",
+          "pazartesi": "Pazartesi",
+          "salı": "Salı",
+          "Çarşamba": "Çarşamba",
+          "Perşembe": "Perşembe",
+          "Cuma": "Cuma",
+          "Cumartesi": "Cumartesi",
+          "Pazar": "Pazar",
+          "Ocak": "Ocak",
+          "Şubat": "Şubat",
+          "Mart": "Mart",
+          "Nisan": "Nisan",
+          "Mayıs": "Mayıs",
+          "Haziran": "Haziran",
+          "Temmuz": "Temmuz",
+          "Ağustos": "Ağustos",
+          "Eylül": "Eylül",
+          "Ekim": "Ekim",
+          "Kasım": "Kasım",
+          "Aralık": "Aralık",
+          "id": "Kullanıcı ID'si",
+          "Durum": "Durum",
+          "pf": "Profil Fotoğrafı",
+          "linksayısı": "Kullanıcının uptime ettigi link sayısı",
+          "sayısı": "Uptime Coin Sayısı"
+      },
+      "satınal": {
+          "kod": "Bir item kodu belirtmelisiniz",
+          "kodiçin": "up!market komutu ile item kodlarına bakabilirsiniz.",
+          "yetersiz": "Yeterli uptime coinin yok!",
+          "basarili": "Başarılı! Hesabınıza",
+          "basarili2": "Link limiti işlendi.",
+          "premium": "Başarılı! Hesabınıza Premium işlendi.",
+          "error": "HATA!",
+          "erroraçıklama": "Sanırım böyle bir item kodu yok. Lütfen up!market üzerinde bulunan bir item kodunu girin"
+      },
+      "sayı": {
+          "toplam": "Toplam Uptime edilen proje sayısı",
+          "senin": "Senin Uptime ettiğin proje sayısı"
+      },
+      "slots": {
+        "sürendolmamış": "Süren dolmamış!",
+        "sürendolmamışaçıklama1": "Tekraran slot çevirebilmek için sürenin dolması gerekiyor.\nBir sonra ki slot çevirebilmek için",
+        "beklemelisin": "beklemelisin",
+        "error1": "Lütfen bir sayı belirtin. Kaybederseniz uptime coini geri alamazsınız.",
+        "error2": ":x: Slot çevirebilmek için minimum 5 coininiz olmalıdır!",
+        "error3": ":x: Slot çevirebilmek oynayabilmek için minimum 5 coin yatırmalısınız!",
+        "error4": ":x: Belirttiginiz sayı uptime coin sayınızı geçmiyor!",
+        "tebrikler": "Tebrikler, kazandınız!",
+        "coineklendi": " hesabına",
+        "coineklendi2": "coin eklendi.",
+        "üzgünüm": "Üzgünüm kaybettin"
+      }
+}

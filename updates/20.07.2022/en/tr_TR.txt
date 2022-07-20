@@ -1,0 +1,215 @@
+{
+  "$package": {
+    "flag": "Language : :flag_us:",
+    "name": "English"
+  },
+      "bal": {
+          "bulunuyor": "You have UpTime Coin!",
+          "whatisthis": "What does UpTime Coin do?",
+          "cevap": "You can increase your link adding limit with UpTime Coin. If you have some questions join our [support server](https://discord.gg/xA6sbMsAkC).",
+          "Erisim": "access",
+          "bakiye": "Balance"
+    },
+      "erisim": {
+        "acik": "You have access to the UpTime Bot.",
+        "kapali": "You have no access to the UpTime bot."  
+      },
+      "istatistik": {
+        "botverileri": "**Bot data :**",
+        "uptimeverileri": " **Uptime data :** ",
+        "yazilimsurumleri": " **Software Versions :**",
+        "gecikmesureleri": " **Delay Times :**",
+        "bellek": "** Memory :**",
+        "kanal": "Number of Channels",  
+        "sunucu": "Number of Servers", 
+        "kullanıcı": "User Count" ,
+        "Aktiflilk": "Uptime",
+        "Linksayı": "Number of Links" ,
+        "djssürüm": "Discord.js version",
+        "nodejssürüm": "nodejs version",
+        "msjgecikmesi": "Message Ping"  
+      },
+    "yardım": {
+        "baslik": "UpTime Help Menu",
+        "menü": "**Uptime Commands **➤\n<:online:911258459301875773> **up!add You add Link.**\n<:online:911258459301875773> **up!delete You delete the link you added.**\ n<:online:911258459301875773> **up!access-control You control your access.**\n<:online:911258459301875773> **up!number You can see the number of projects the bot has uptime.**\n<:online:911258459301875773> **up!links You look at your links.**\n\n**User Commands **➤\n<:online:911258459301875773> **up!statistics You can see the statistics of the bot.**\n<:online:911258459301875773> ** up!help Shows the Help menu.**\n<:online:911258459301875773> **up!status Sets the status of the server you specify (eg Canada1).**\n<:online:911258459301875773> **up!depo Indicates the repository (Link number).**\n<:online:911258459301875773> **up!profile Shows the user's information.**\n<:online:911258459301875773> **up!ping Shows the ping of all servers and bot.**\n<: online:911258459301875773> **up!invite Shows the bot's links.**\n\n **Economy Commands** ➤\n<:online:911258459301875773> **up!daily you get your Daily reward.**\n<:online:911258459301875773> **up!balance Check your Uptime Coin balance.**\n<: online:911258459301875773> **up!market shows Link Limit codes and required coin.**\n<:online:911258459301875773> **up!buy-in You will get the item code you specified. (Link limit)**\n<:online:911258459301875773> **up!coinwin You earn coins by passing the link.**\n<:online:911258459301875773> **up!slots You play Slots game.**\n\nPremium help : up!phelp"
+    },
+        "coinkazan": {
+
+        "linkoluşturuldu": "A special link has been created for you.",
+        "uyarı": "You can earn 1 - 10 coins by passing this link! The link is private to you.\nThe advertisements on the site are not related to us and we are not responsible if something happens to your computer!\nBy clicking this link, you are helping us.",
+        "günlüksaat": "Your time is not up!",
+        "günlüksaatzaman": "To get coins again, the time has to expire.\nTo get the next coin",        
+        "günlüksaatzaman2": "You have to wait!"
+        },
+            "depo": {
+        "senin": "Your warehouse",
+        "Kullandı": "Number of projects used",
+        "uyari": "You can view your links using the up!links command."      
+            },
+            "ekle": {
+         "error1t": "Couldn't Add Link",
+         "error1": " **Something went wrong! Contact our support team!\n**Error Code: 402\n\nWhat could be the reasons?\n»Link not specified\n» Link insecure :unlock:\n» Unable to access link\n» Link entered incorrectly",
+         "error2": "Your warehouse is full (7/7), I can't add your link!**",
+         "error3": "The owner of this link is blacklisted and permanently blocked from re-posting this link",
+         "error4": "I think you're blacklisted. That's why I can't uptime your link. I am sad",
+         "error51": "I think the server to add the link",
+         "error5": "closed",  
+         "error61": "I think the server to add the link",
+         "error6": "in care",
+         "error71": "I think the server to add the link",
+         "error7": "Full! Therefore the link could not be added",
+         "varzaten": "The link you specified is already in my system",
+         "bekle1": "Please wait 1-3 minutes. Link",
+         "bekle2": "I am attaching the link to this server.",
+         "basarili": " The URL you wrote was successfully added to my system",
+         "basarili2": "This link",  
+         "basarili3": "will be stored on the server."      
+            },
+            "vote": {
+         "votetitle": "You must vote!",
+         "Voteaçıklama": "You must vote to add a link. [From here](https://top.gg/bot/947508799386820608/vote) You can vote.
+  ",
+         "sorunvarmi": "Do you have a problem?",
+         "buton": "Contact us here!"       
+            },
+        "karaliste": {
+            "error": "Error!",
+            "hata": "I think your access is disabled"
+        },
+        "linklerim": {
+            "error": "Error!",
+            "hata": "You don't have any links!",
+            "sended": "The Links You Are Uptime Have Been Sent To Your Direct Messages For Security Reasons. Check your direct messages.",
+            "uyarı": "NOTE: NO MESSAGE WILL BE SENT IF DIRECT MESSAGES ARE OFF",
+            "hataolustu": "Something went wrong. Make sure your Direct Messages are turned on"
+        },
+    	"durum": {
+            "yaz": "To check the status of a server, type its name",
+            "acık": "Currently available servers :\nCanada1\nCanada2\nFrance1\nTurkey1\n\n
+Example usage: up!status Canada1",
+            "support": "Support server",
+            "sunucuadi": "Server Name",
+            "sunucudurum": "Server Status",
+            "sayi": "Number of Links Found on the Server",
+            "error": "The server you entered could not be found"
+            
+        },
+      "coinflip": {
+        "sürendolmamış": "Your time is not up!",
+        "sürendolmamışaçıklama1": "To play the coin flip again, the time must expire.\nTo play the next coin flip game",
+        "beklemelisin": "You should wait",
+        "error1": "Please specify a number. If you lose it, you can't get the uptime coin back.",
+        "error2": ":x: You must have a minimum of 5 coins to play Coin Flip!",
+        "error3": ":x: To play Coin Flip, you must deposit a minimum of 5 coins!",
+        "error4": ":x: The number you specified does not exceed the number of uptime coins!"
+        "çıktı1": "And... heads is out.",
+        "tebrikler": "Congratulations, you won!",
+        "coineklendi": "on your account",
+        "coineklendi2": "Coin added.",
+        "çıktı2": "And... went out on a tails."
+        "üzgünüm": "I'm sorry you lost"
+      },
+      "günlük": {
+        "sürendolmamış": "Your time is not up!
+        "sürendolmamışaçıklama": "The time has to expire in order to receive the daily reward again.\nTo receive the next daily reward "  
+        "beklemelisin": "You should wait.",
+        "günlükbaşlık": "Your Daily Reward!",
+        "günlükaçıklama": "You've earned Uptime Coin as a daily reward!",
+        "bakiyenebak": "You can check your balance with the up!balance command."  
+      },
+      "market": {
+		"Başlık": "Market",
+        "Eklendi": "Added"  
+        "limit": "link limit",  
+        "kod": "Item code: ",
+        "uc": "Uptime Coin",
+        "itemkodu": "itemcode"  
+      },
+      "premium": {
+          "yok": "User does not use premium.",
+          "süreyok": "No premium",
+          "var": "User is using Premium **Tier 1** subscription!",
+          "sınırsız": "Unlimited"
+      },
+      "premiumekle": {
+          "yok": "Couldn't Add Link!",
+          "premiumyok": "This command is exclusive to premiums and it looks like you don't have a premium."
+      },
+      "sil": {
+         "basarisiz": "Link Deletion failed.",
+         "neden": "The link could not be deleted.\n\n» This link does not exist in the system.\n» This link exists in the system, but by another user.\n» Try adding / to the end of the link or removing it.\n» Link not specified\n\nIf you think this error is not correct, please contact our support team! The support server is located in the help menu.",
+        "basarili": "Link Deletion succeeded.",
+        "silindi1": "The link has been successfully deleted. Now",
+        "silindi2": "You have the link."  
+
+      },
+      "pyardım": {
+          "yardım": "**Premium Commands **➤\n\n<:online:911258459301875773> **up!premium-add You add Premium Link.**\n<:online:911258459301875773> **up!premium-delete You delete Premium Link.**\n<:online:911258459301875773> **up!premium You look at your premium status. **",
+          "duyuru": "Announcement"
+      },
+      "bulunuyor": {
+          "Şuanda1": "At the moment",
+          "ediliyor1": "Project is uptime",
+          "şuanda2": "At the moment",
+          "ediliyor2": "Premium project uptime"
+          
+      },
+      "profil": {
+          "dnd": "Do not disturb",
+          "idle": "idle",
+          "offline": "Offline",
+          "online": "Online",
+          "pazartesi": "Monday",
+          "salı": "Tuesday",
+          "Çarşamba": "Wednesday",
+          "Perşembe": "Thursday",
+          "Cuma": "Friday",
+          "Cumartesi": "Saturday",
+          "Pazar": "Sunday",
+          "Ocak": "January",
+          "Şubat": "February",
+          "Mart": "March",
+          "Nisan": "April",
+          "Mayıs": "May",
+          "Haziran": "June",
+          "Temmuz": "July",
+          "Ağustos": "August",
+          "Eylül": "September",
+          "Ekim": "October"
+          "Kasım": "November",
+          "Aralık": "December"
+          "id": "User ID",
+          "Durum": "Situation",
+          "pf": "Profile photo",
+          "linksayısı": "Number of links uptime by the user",
+          "sayısı": "Number of Uptime Coins"
+      },
+      "satınal": {
+          "kod": "You must specify an item code",
+          "kodiçin": "You can check the item codes with the up!market command.",
+          "yetersiz": "You don't have enough uptime coins!",
+          "basarili": "Successful! to your account",
+          "basarili2: "Link limit processed.",
+          "premium": "Successful! Premium has been credited to your account.",
+          "error": "ERROR!",
+          "erroraçıklama": "I guess there is no such item code. Please enter an item code found on up!market"
+      },
+      "sayı": {
+          "toplam": "Total number of Uptime projects",
+          "senin": "Number of projects you have Uptime"
+      },
+      "slots": {
+        "sürendolmamış": "Your time is not up!",
+        "sürendolmamışaçıklama1": "Time must expire before you can spin a slot again.\nIn order to spin the next slot",
+
+        "beklemelisin": "You should wait",
+        "error1": "Please specify a number. If you lose it, you can't get the uptime coin back.",
+        "error2": ":x: You must have a minimum of 5 coins to spin a slot!",
+        "error3": ":x: You must deposit a minimum of 5 coins to play slots!",
+        "error4": ":x: The number you specified does not exceed the number of uptime coins!"
+        "tebrikler": "Congratulations, you won!",
+        "coineklendi": "on your account",
+        "coineklendi2": "Coin added.",
+        "üzgünüm": "I'm sorry you lost"
+      }
+}
